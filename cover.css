@@ -28,6 +28,9 @@ body {
 .site-wrapper-inner {
     display: table-cell;
     vertical-align: top;
+    padding: 0px
+    border: 10px;
+
 }
 .cover-container {
     margin-left: auto;
