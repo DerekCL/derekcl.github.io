@@ -110,12 +110,12 @@ body {
 .Inner_cover{
     padding: 10px
 }
-#about_cover {
+#text_left {
     text-align: left;
     padding: 10px;
 }
 
-#about_cover h3{
+#text_left h3{
     padding-bottom: 30px
 }
 
